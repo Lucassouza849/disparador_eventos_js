@@ -1,0 +1,15 @@
+{
+  "name": "eventosjs",
+  "version": "1.0.0",
+  "description": "disparador de eventos",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^12.0.1"
+  }
+}
